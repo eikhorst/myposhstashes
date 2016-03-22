@@ -1,0 +1,1 @@
+﻿.\disenza-EastToCentral.ps1 -VMToMove "sushiutilsql-01" -CentralStorageAccount "skiapu3lrs" -CentralCloudService "bald-sushiusql" -VMOS Windows

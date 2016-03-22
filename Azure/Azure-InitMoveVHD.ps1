@@ -1,0 +1,1 @@
+﻿.\disenza-EastToCentral-sushiUSCHED-01.ps1 -VMToMove "sushiUSCHED-01" -CentralStorageAccount "skiapu1lrs" -CentralCloudService "bald-sushiusched" -VMOS Windows -Skipcopy True #-CloudServiceReservedIPName bald-sushiSFTP

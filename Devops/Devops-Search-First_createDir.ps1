@@ -1,0 +1,1 @@
+. C:\DSE\scripts\getMonitorcballey\createDir.ps1 -ExecutionPolicy RemoteSigned -force

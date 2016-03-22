@@ -1,0 +1,1 @@
+﻿GET-azureservice | ?{$_.ServiceName -match "bald-sushiGUM"} | Get-AzureVM | FormprimTable –auto "Name","InstanceStatus"

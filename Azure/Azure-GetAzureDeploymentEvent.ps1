@@ -1,0 +1,1 @@
+﻿get-azurevm | where {$_.name -match 'sushi(FIG|GUM|HAM|ICE)-SQL-(01|02|WI)'} | get-azuredeploymentevent –StartTime '3/15/2015' -EndTime '3/18/2015'

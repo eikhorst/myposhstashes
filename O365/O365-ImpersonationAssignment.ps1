@@ -1,0 +1,1 @@
+New-ManagementRoleAssignment -Name:impersonationBYSvc1 -Role:ApplicationImpersonation -User:svc1@disenza.com
